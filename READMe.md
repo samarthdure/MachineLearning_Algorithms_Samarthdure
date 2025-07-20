@@ -2,7 +2,7 @@
 
 This repository contains implementations of five fundamental machine learning algorithms using Python and scikit-learn. Each script demonstrates a complete machine learning workflow including data loading, preprocessing, training, evaluation, and visualization.
 
-## 📊 Overview
+## Overview
 
 | Algorithm | Dataset | Problem Type | Key Features |
 |-----------|---------|--------------|-------------|
