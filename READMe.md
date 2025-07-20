@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Collection
+# Machine Learning Algorithms Collection (https://github.com/samarthdure/MachineLearning_Algorithms_Samarthdure/tree/main)
 
 This repository contains implementations of five fundamental machine learning algorithms using Python and scikit-learn. Each script demonstrates a complete machine learning workflow including data loading, preprocessing, training, evaluation, and visualization.
 
