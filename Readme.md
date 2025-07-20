@@ -12,13 +12,7 @@ This repository contains implementations of five fundamental machine learning al
 | Support Vector Machine | Breast Cancer | Binary Classification | Kernel trick, margin optimization |
 | Random Forest | Wine | Multi-class Classification | Ensemble method, feature importance |
 
-## 🔧 Dependencies
 
-Make sure you have the following Python packages installed:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
-```
 
 **Required packages:**
 - `numpy` - Numerical computing
@@ -27,14 +21,14 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 - `matplotlib` - Plotting and visualization
 - `seaborn` - Statistical data visualization
 
-## 📁 File Descriptions
+## File Descriptions
 
 ### 1. `1_logistic_regression.py`
 **Algorithm:** Logistic Regression  
 **Dataset:** Iris flower classification  
 **Purpose:** Demonstrates linear classification for multi-class problems
 
-**Key Features:**
+**Features:**
 - Multi-class classification (3 species)
 - Feature coefficient analysis
 - Confusion matrix visualization
@@ -73,7 +67,7 @@ Test Accuracy: 0.8125 (81.25%)
 **Dataset:** Handwritten digits (0-9)  
 **Purpose:** Demonstrates instance-based learning
 
-**Key Features:**
+**Features:**
 - Optimal K value selection via cross-validation
 - Digit image visualization
 - Per-digit accuracy analysis
@@ -93,7 +87,7 @@ Test Accuracy: 0.9889 (98.89%)
 **Dataset:** Breast cancer diagnosis  
 **Purpose:** Shows kernel-based classification for medical diagnosis
 
-**Key Features:**
+**Features:**
 - Hyperparameter tuning with GridSearchCV
 - Kernel comparison (RBF vs Linear)
 - Decision boundary visualization
@@ -113,7 +107,7 @@ Test Accuracy: 0.9737 (97.37%)
 **Dataset:** Wine type recognition  
 **Purpose:** Demonstrates ensemble learning methods
 
-**Key Features:**
+** Features:**
 - Forest composition analysis
 - Feature importance ranking
 - Out-of-bag score validation
