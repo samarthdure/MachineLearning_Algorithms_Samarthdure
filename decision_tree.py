@@ -1,7 +1,7 @@
 """
 Decision Tree Implementation
 Dataset: Titanic Survival Prediction
-Author: [Your Name]
+Author: Samarth Dure
 Description: This script demonstrates decision tree classification to predict 
 passenger survival on the Titanic based on various features.
 """
